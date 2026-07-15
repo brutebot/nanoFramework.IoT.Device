@@ -1,6 +1,6 @@
 # Tips and tricks for .NET IoT to .NET nanoFramework migration
 
-You'll find a list of tips and tricks to help in the migration. There is no specific order in this list.
+You'll find a list of tips and tricks to help in the migration. There is no specific order in this list.....
 
 ## What's already done for you
 
